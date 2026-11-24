@@ -1,0 +1,41 @@
+{
+  "slug": "wellness",
+  "handle": "@wellness_plz",
+  "avatar": "웰",
+  "theme": "wellness",
+  "title": "웰니스 플리즈 추천템",
+  "tagline": "40·50대를 위한 건강 · 생활 추천템 모음",
+  "intro": "매일 아침 하나씩, 직접 골라 본 제품만 올립니다.",
+  "instagram": "https://www.instagram.com/wellness_plz/",
+  "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "items": [
+    {
+      "date": "2026-11-25",
+      "name": "아리프 EVA 소프트 폼롤러 + 운동 가이드 포스터",
+      "price": "40,400원",
+      "price_note": "첫 구매 쿠폰 적용 28,900원 · 쿠폰 4일 남음",
+      "note": "운동 뒤 뭉친 종아리·허벅지를 정리할 때 쓰는 폼롤러. 상품평 11,797개, 로켓배송.",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=8717815555&itemId=25321180945&subId=wellness_plz",
+      "post": "https://www.instagram.com/p/DgJFkvoEue0/",
+      "featured": true
+    },
+    {
+      "date": "2026-11-24",
+      "name": "잠스트 무릎보호대 EK-3 (블랙, S~LL)",
+      "price": "35,640원",
+      "price_note": "정가 44,000원 · 상품평 9,988개",
+      "note": "계단·산책할 때 무릎이 불편한 분들이 많이 찾는 보호대.",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=94168449&itemId=7830781556&subId=wellness_plz",
+      "post": "https://www.instagram.com/p/DgGgugXkvXX/"
+    },
+    {
+      "date": "2026-11-23",
+      "name": "정관장 홍삼정 에브리타임 30회분 (16개입)",
+      "price": "78,870원",
+      "price_note": "정가 96,000원 · 상품평 6,271개",
+      "note": "아침에 한 포씩 챙기기 좋은 스틱 홍삼. 부모님 선물로도 무난합니다.",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=8203692214&itemId=143667884&subId=wellness_plz",
+      "post": "https://www.instagram.com/p/DgD9TTgkgc1/"
+    }
+  ]
+}
