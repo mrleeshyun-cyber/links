@@ -18,7 +18,7 @@ from __future__ import annotations
 
 import html
 import json
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -27,6 +27,7 @@ PAGES = ["wellness", "daily"]
 SITE_BASE = "https://mrleeshyun-cyber.github.io/links"
 SITE_TITLE = "추천 링크 모음"
 SITE_DESC = "@wellness_plz · @daily_1_percent_b 매일 아침 추천하는 제품 링크 모음"
+KST = timezone(timedelta(hours=9))
 
 
 def esc(value: str) -> str:
@@ -117,8 +118,10 @@ def render_account_page(data: dict) -> str:
     if featured:
         price_note = featured.get("price_note", "")
         price_note_html = f'\n    <span class="price-note">{esc(price_note)}</span>' if price_note else ""
+        today = datetime.now(KST).date().isoformat()
+        badge_label = "오늘의 추천" if featured.get("date") == today else "최근 추천"
         featured_html = f"""<section class="card featured">
-  <span class="badge">오늘의 추천 · {esc(short_date(featured.get("date", "")))}</span>
+  <span class="badge">{badge_label} · {esc(short_date(featured.get("date", "")))}</span>
   <h2>{esc(featured["name"])}</h2>
   <p class="price">{esc(featured.get("price", ""))}{price_note_html}</p>
   <p class="note">{esc(featured.get("note", ""))}</p>
