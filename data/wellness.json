@@ -10,14 +10,23 @@
   "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "items": [
     {
+      "date": "2026-11-26",
+      "name": "하이뮨 프로틴 밸런스 L 608g",
+      "price": "48,900원",
+      "note": "운동한 날 부실한 저녁 대신 단백질 20g 한 잔. 로켓배송.",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=7127545378&itemId=24377331092&subId=wellness_plz",
+      "featured": true,
+      "price_note": "첫 구매 쿠폰 35,420원 · 상품평 65,913개",
+      "post": "https://www.instagram.com/p/DgLqPLPkhEJ/"
+    },
+    {
       "date": "2026-11-25",
       "name": "아리프 EVA 소프트 폼롤러 + 운동 가이드 포스터",
       "price": "40,400원",
       "price_note": "첫 구매 쿠폰 적용 28,900원 · 쿠폰 4일 남음",
       "note": "운동 뒤 뭉친 종아리·허벅지를 정리할 때 쓰는 폼롤러. 상품평 11,797개, 로켓배송.",
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=8717815555&itemId=25321180945&subId=wellness_plz",
-      "post": "https://www.instagram.com/p/DgJFkvoEue0/",
-      "featured": true
+      "post": "https://www.instagram.com/p/DgJFkvoEue0/"
     },
     {
       "date": "2026-11-24",
@@ -27,15 +36,7 @@
       "note": "계단·산책할 때 무릎이 불편한 분들이 많이 찾는 보호대.",
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=94168449&itemId=7830781556&subId=wellness_plz",
       "post": "https://www.instagram.com/p/DgGgugXkvXX/"
-    },
-    {
-      "date": "2026-11-23",
-      "name": "정관장 홍삼정 에브리타임 30회분 (16개입)",
-      "price": "78,870원",
-      "price_note": "정가 96,000원 · 상품평 6,271개",
-      "note": "아침에 한 포씩 챙기기 좋은 스틱 홍삼. 부모님 선물로도 무난합니다.",
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=8203692214&itemId=143667884&subId=wellness_plz",
-      "post": "https://www.instagram.com/p/DgD9TTgkgc1/"
     }
-  ]
+  ],
+  "updated": "2026-11-26"
 }

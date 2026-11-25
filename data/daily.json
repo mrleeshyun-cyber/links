@@ -10,14 +10,23 @@
   "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "items": [
     {
+      "date": "2026-11-26",
+      "name": "에르먼 PIO 2단 쿠션 발받침대 기본형 (네이비)",
+      "price": "50,000원",
+      "note": "책상 아래 발을 올려 두는 2단 받침대. 국내 제조, 로켓배송.",
+      "url": "https://link.coupang.com/AFFSDP?lptag=AF1928163&pageKey=7830616996&itemId=21259952418&subId=daily_1_percent_b",
+      "featured": true,
+      "price_note": "첫 구매 쿠폰 29,800원 · 상품평 8,025개",
+      "post": "https://www.instagram.com/p/DgLp9WskwYv/"
+    },
+    {
       "date": "2026-11-25",
       "name": "알파 103 독서대",
       "price": "22,500원",
       "price_note": "첫 구매 쿠폰 적용 17,100원 · 상품평 10,733개",
       "note": "책·태블릿을 눈높이에 맞춰 두는 각도 조절 독서대. 로켓배송.",
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=66263203&itemId=223000993&subId=daily_1_percent_b",
-      "post": "https://www.instagram.com/p/DgJF-a3IypE/",
-      "featured": true
+      "post": "https://www.instagram.com/p/DgJF-a3IypE/"
     },
     {
       "date": "2026-11-24",
@@ -27,15 +36,7 @@
       "note": "타자 소리가 거의 나지 않아 밤이나 사무실에서 쓰기 좋습니다.",
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=4829338756&itemId=6229002743&subId=daily_1_percent_b",
       "post": "https://www.instagram.com/p/DgGgbQSk0CM/"
-    },
-    {
-      "date": "2026-11-23",
-      "name": "한경희생활과학 2in1 멀티 살균 스팀청소기 (HSM-1010TI)",
-      "price": "99,000원",
-      "price_note": "상품평 2,590개",
-      "note": "찌든 때와 바닥 살균을 한 번에. 연말 대청소 시즌에 꺼내 쓸 만합니다.",
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1928163&pageKey=8054037923&itemId=22600177813&subId=daily_1_percent_b",
-      "post": "https://www.instagram.com/p/DgEIybBo1Fs/"
     }
-  ]
+  ],
+  "updated": "2026-11-26"
 }
